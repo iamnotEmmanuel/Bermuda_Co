@@ -1,0 +1,13 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Emmanuel/Documents/Unreal Projects/Bermuda_Co/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/C/9B/4GG0LCH0JDG02YHQOXGTZA.uasset",
+				"C:/Users/Emmanuel/Documents/Unreal Projects/Bermuda_Co/Content/ProgresBar/WBP_FlushProgress.uasset"
+			]
+		}
+	]
+}

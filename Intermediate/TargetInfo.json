@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Bermuda_Co",
+			"Path": "..\\Source\\Bermuda_Co.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Bermuda_CoEditor",
+			"Path": "..\\Source\\Bermuda_CoEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

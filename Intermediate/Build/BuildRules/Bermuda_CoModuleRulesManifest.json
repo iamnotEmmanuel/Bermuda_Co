@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\Emmanuel\\Documents\\Unreal Projects\\Bermuda_Co\\Source\\Bermuda_Co\\Bermuda_Co.Build.cs",
+		"C:\\Users\\Emmanuel\\Documents\\Unreal Projects\\Bermuda_Co\\Plugins\\VisualStudioTools\\Source\\VisualStudioBlueprintDebuggerHelper\\VisualStudioBlueprintDebuggerHelper.Build.cs",
+		"C:\\Users\\Emmanuel\\Documents\\Unreal Projects\\Bermuda_Co\\Plugins\\VisualStudioTools\\Source\\VisualStudioTools\\VisualStudioTools.Build.cs",
+		"C:\\Users\\Emmanuel\\Documents\\Unreal Projects\\Bermuda_Co\\Source\\Bermuda_Co.Target.cs",
+		"C:\\Users\\Emmanuel\\Documents\\Unreal Projects\\Bermuda_Co\\Source\\Bermuda_CoEditor.Target.cs"
+	],
+	"EngineVersion": "5.6.0"
+}
